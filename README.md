@@ -14,6 +14,3 @@ retrieving, sorting, and filtering data.
 - Sorting results with `ORDER BY`
 - Limiting results with `LIMIT`
 - Filtering rows with `WHERE`, combining conditions using `AND`, `OR`, `NOT`, and `IN`
-
-## Author
-Sinothando Mafu
